@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Comforter+Brush&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Dancing+Script:wght@400;500;600;700&family=Lilita+One&family=Lobster&family=Luxurious+Roman&family=Montez&family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Moon+Dance&family=Oswald:wght@200;300;400;500;600;700&family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=The+Nautigal:wght@400;700&family=Vujahday+Script&family=Waterfall&display=swap');
+
+/* GOOGLE FONTS */
+
+.comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.comforter-brush {
+    font-family: 'Comforter Brush', cursive;
+}
+
+.comic-neue {
+    font-family: 'Comic Neue', cursive;
+}
+
+.dancing-script {
+    font-family: 'Dancing Script', cursive;
+}
+
+.lilita-one {
+    font-family: 'Lilita One', cursive;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.luxurious-roman {
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.montez {
+    font-family: 'Montez', cursive;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat-alternates {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.moon-dance {
+    font-family: 'Moon Dance', cursive;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-sarif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.the-nautigal {
+    font-family: 'The Nautigal', cursive;
+}
+
+.vujahday-script {
+    font-family: 'Vujahday Script', cursive;
+}
+
+.waterfall {
+    font-family: 'Waterfall', cursive;
+}
