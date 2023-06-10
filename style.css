@@ -313,11 +313,11 @@ section .title::after {
 }
 
 .home .max-width img {
-    margin: 0 100px 50px 50px;
-    width: 300px;
+    margin: 0 100px 0 50px;
+    width: 400px;
     height: 100%;
-    border-radius: 10px;
-    border: 1px solid #ccff;
+    /* border-radius: 10px;
+    border: 1px solid #ccff; */
 }
 
 .media-icons {
